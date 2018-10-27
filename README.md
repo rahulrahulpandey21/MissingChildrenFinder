@@ -25,7 +25,7 @@ Missing Children Finder is an AI based Face Recognition Android Application whic
 
 
 ## Future Extention of this Project:
-### Collecting every child's data from all over the country
+### Collecting every child's data from all over the country.
 The idea is cover all the children of the country which also includes underprivileged children and the children from the slums.
 Major problems that can be targeted by this initiative are:
 * Covering all the slum area children will reduce the chances of children getting kidnapped and forced into labour, begging and organ trade.
